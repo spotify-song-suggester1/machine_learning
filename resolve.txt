@@ -1,0 +1,5 @@
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+jedi @ file:///C:/ci/jedi_1592833825077/work
+ipykernel @ file:///C:/ci/ipykernel_1595351551858/work/dist/ipykernel-5.3.3-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593447482397/work

@@ -9,13 +9,9 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 idna==2.10
-ipykernel @ file:///C:/ci/ipykernel_1595351551858/work/dist/ipykernel-5.3.3-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593447482397/work
 ipython-genutils==0.2.0
-jedi @ file:///C:/ci/jedi_1592833825077/work
 Jinja2==2.11.2
 jsonschema==3.2.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-core==4.6.3
 MarkupSafe==1.1.1
 mistune==0.8.4
@@ -42,7 +38,6 @@ testpath==0.4.4
 tornado==6.0.4
 traitlets==4.3.3
 urllib3==1.25.10
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 wincertstore==0.2
 zope.interface==5.1.0
