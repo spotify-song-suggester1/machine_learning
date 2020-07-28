@@ -58,4 +58,5 @@ urllib3==1.25.10
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 wincertstore==0.2
+xgboost==1.1.1
 zope.interface==5.1.0
