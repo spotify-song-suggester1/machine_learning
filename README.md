@@ -26,3 +26,11 @@ A: The Data Science team aims to solve the problem of inadequate or inaccurate p
 A: From our team's personal experience, listening to a song all the way through without skipping is generally the best indication of whether a song was a good prediction or not. Adding a song to a playlist or liking a song can give an indication about a particularly good suggestion, but we've discovered that most users are not likely to do this on "good suggestions" only "really good suggestions".\
 **Q: What kind of target output can you deliver to the Web/UX/iOS teams to work with? Is it in JSON format or something else?**\
 A: The Spotify API already outputs search requests as JSON, which our Data Engineer plans to flatten for ease of data analysis. We plan to change this back to Python via a Flask app when we return it to the backend team.\
+\
+\
+### Color Scheme: ###
+Background color: #D4F779 \
+Text-color: Black \
+Footer and Header Text Color: #F22FA5 \
+Font: Circular --- be sure to import and specify in font-family, can be found here or here. Alternatively, the path is CircularStd-Bold.otf \
+Logo: can be found here. The path is assets/vinyl-logo-512-pink.png \
